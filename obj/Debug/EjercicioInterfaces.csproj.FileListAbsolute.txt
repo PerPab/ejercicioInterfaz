@@ -1,0 +1,8 @@
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\bin\Debug\EjercicioInterfaces.exe.config
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\bin\Debug\EjercicioInterfaces.exe
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\bin\Debug\EjercicioInterfaces.pdb
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\obj\Debug\EjercicioInterfaces.csproj.AssemblyReference.cache
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\obj\Debug\EjercicioInterfaces.csproj.SuggestedBindingRedirects.cache
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\obj\Debug\EjercicioInterfaces.csproj.CoreCompileInputs.cache
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\obj\Debug\EjercicioInterfaces.exe
+D:\2-ISTEA\POO\ejercicios colecciones\EjercicioInterfaces\obj\Debug\EjercicioInterfaces.pdb
